@@ -1,0 +1,15 @@
+# Local marketing & lead tools (must NEVER be committed to public repository)
+parse_leads.js
+generate_*.js
+marketing/
+
+# Legacy unused design drafts
+assets/app_logo_v1.png
+assets/app_logo_v2.png
+assets/logo.svg
+
+# System & logs
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
